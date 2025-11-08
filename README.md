@@ -130,5 +130,4 @@ Libraries: scikit-learn, spaCy, NLTK, matplotlib
 
 ---
 
-**Repository Link:** [https://github.com/yourusername/ITAI2373-NewsBot-Midterm](https://github.com/yourusername/ITAI2373-NewsBot-Midterm)  
-*(Replace with your actual GitHub repo URL before submission.)*
+**Repository Link:** https://github.com/JohnNguyenHCC/ITAI2373-NewsBot-Midterm
