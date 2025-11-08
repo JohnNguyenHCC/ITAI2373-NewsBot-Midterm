@@ -1,7 +1,7 @@
 # 📰 NewsBot Intelligence System
 **Course:** ITAI-2373 – Natural Language Processing  
 **Project:** Midterm Group Project (Solo Implementation)  
-**Author:** [Your Name]
+**Author:** John Nguyen
 
 ---
 
